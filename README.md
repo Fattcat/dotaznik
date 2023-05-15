@@ -1,0 +1,2 @@
+# dotaznik
+PYTHON DOTAZNIK
