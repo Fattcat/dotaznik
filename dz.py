@@ -60,7 +60,7 @@ print(f"{orange}E-mail :{reset}", g + "\n")
 
 # ZAPISOVANIE DO Textoveho suboru
 
-output += ("        : Vsetky Vase udaje su TU : ")
+output += ("\n       : Vsetky Vase udaje su TU : \n")
 output += ("")
 output += ("---------------------------------------\n")
 output += ("- Meno a Priezvisko : " + a + " - ")
